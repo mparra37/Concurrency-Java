@@ -1,0 +1,7 @@
+hola
+esto
+Escritor 2: hola
+Escritor 2: soy 
+Escritor 2: el segundo
+Escritor 1: hola
+Escritor 1: que tal

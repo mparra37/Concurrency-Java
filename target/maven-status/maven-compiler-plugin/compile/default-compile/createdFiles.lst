@@ -1,4 +1,9 @@
-com\mycompany\ejemplo_concurrencia\Sumador1.class
 com\mycompany\ejemplo_concurrencia\MergeSort.class
+com\mycompany\ejemplo_concurrencia\CuentaBancaria.class
+com\mycompany\ejemplo_concurrencia\Contador_sync.class
+com\mycompany\ejemplo_concurrencia\Sumador1.class
+com\mycompany\ejemplo_concurrencia\Escritores.class
+com\mycompany\ejemplo_concurrencia\RW.class
+com\mycompany\ejemplo_concurrencia\Cajero.class
 com\mycompany\ejemplo_concurrencia\Ejemplo_concurrencia.class
 com\mycompany\ejemplo_concurrencia\Sumador.class
